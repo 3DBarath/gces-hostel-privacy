@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head><title>Delete My Data</title></head>
+<body>
+  <h2>Request Data Deletion</h2>
+  <p>To request deletion of your data from GCES Hostel app, send an email to:</p>
+  <a href="mailto:gceshostel@gmail.com?subject=Data Deletion Request">gceshostel@gmail.com</a>
+  <p>Include your registered name and email. We will delete your data within 7 days.</p>
+</body>
+</html>
